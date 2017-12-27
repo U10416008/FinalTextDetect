@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalTextDetect</string>
+    <string name="open_gallery">LoadImage</string>
+</resources>
